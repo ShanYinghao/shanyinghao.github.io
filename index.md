@@ -22,11 +22,17 @@ Email: shanyh@dhu.edu.cn
 
 ### Publications
 
-1) Y. Shan, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in IEEE Transactions on Smart Grid. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. wos No.: 000519592100009, doi: 10.1109/TSG.2019.2929751 (1st Author, SCI,  JCR-Q1, Top, 2019 IF: 8.267);
-2) Y. Shan, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy," in IEEE Transactions on Power Electronics. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. wos No.: 000520838900011, doi: 10.1109/TPEL.2019.2930182 (1st Author, SCI, JCR-Q1, Top, 2019 IF: 6.373);
-3) Y. Shan, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids," in IEEE Transactions on Sustainable Energy. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. wos No.: 000487199700020, doi: 10.1109/TSTE.2018.2873390 (1st Author, SCI, JCR-Q1, Top, 2019 IF:7.44);
-4) Y. Shan, J. Hu, Z. Li and J. M. Guerrero, "A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators," in IEEE Transactions on Power Electronics, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. wos No.: 000442337500004, doi: 10.1109/TPEL.2018.2822314 (1st Author, SCI, JCR-Q1, Top, 2019 IF: 6.373);
-5) J. Hu, Y. Shan, Y. Xu and J. M. Guerrero, "A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions, " in International Journal of Electrical Power & Energy Systems, Published, vol. 104, pp. 583-592, Jan. 2019. wos No.: 000447106500054, doi: https://doi.org/10.1016/j.ijepes.2018.07.037  (2nd Author, SCI, JCR-Q1, 2019 IF:3.588);
+1) **Y. Shan**, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in **IEEE Transactions on Smart Grid. Published**, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. 
+
+2) **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. 
+
+3) **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. 
+
+4) **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018.
+
+5) J. Hu, **Y. Shan***, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "Model predictive control of microgrids – An overview," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021.
+
+6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions, " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019.
 ...
 
 ### Awards
