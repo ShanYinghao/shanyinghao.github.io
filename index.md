@@ -1,4 +1,3 @@
-## Welcome to MY Pages
 
 <table border="0">
   <tr>
