@@ -1,12 +1,14 @@
 ## Welcome to MY Pages
 
+![Image](C:\Users\SHANHALL\Desktop\dhdx.jpg)
+
 SHAN Yinghao (单英浩)
 
 Assistant Professor, Doctor of Philosophy
 
 College of Information Science and Technology, [Donghua University](http://english.dhu.edu.cn/)
 
-Songjiang District, [Shanghai, China](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7/114606)
+Songjiang District, [Shanghai](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7/114606), China
 
 Email: shanyh@dhu.edu.cn
 
@@ -19,21 +21,6 @@ Email: shanyh@dhu.edu.cn
 ### Awards
 
 Best Paper Award, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
 
 ### Other Pages
 
