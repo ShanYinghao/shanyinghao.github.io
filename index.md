@@ -14,13 +14,13 @@
   </tr>
 </table>
 
-### Research topics
+### **Research topics**
 
-1) Sustainable Energy Systems & Power Electronics: Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation forecast
+1) **Sustainable Energy Systems & Power Electronics**: Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation forecast
 
-2) Microgrids & Smart Grid Technologies: Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
+2) **Microgrids & Smart Grid Technologies**: Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
 
-3) Intelligent algorithms: Fuzzy logic control, Artificial neural network
+3) **Intelligent algorithms**: Fuzzy logic control, Artificial neural network
 
 ### Publications
 
@@ -39,9 +39,9 @@
 
 ### Awards
 
-Best Paper Award, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
+**Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
 
-National scholarship for Postgraduates, Dec. 2016.
+**National scholarship for Postgraduates**, Dec. 2016.
 
 ### Other Pages
 
@@ -53,6 +53,6 @@ You can also visit my other pages:
 
 ### Words in the End
 
-I am looking for outstanding Research / Exchange Students (MSc, MPhil), various scholarships or allowances can be offered. 
+I am looking for outstanding Research / Exchange Students (UG, GR, MSc, MPhil), various scholarships or allowances can be offered. 
 
 Collaboration and industry/government consultancies are also welcome.
