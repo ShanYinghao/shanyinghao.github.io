@@ -9,7 +9,7 @@
       <p><b>Email: shanyh@dhu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/me.jpg" width="100%">      % 插入证件照代码
+      <img src="/me.jpg" width="100%"> 
     </td>
   </tr>
 </table>
