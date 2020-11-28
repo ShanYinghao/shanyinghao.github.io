@@ -17,7 +17,7 @@
 
 ### **Short biography**
 
-SHAN Yinghao received his **PhD** from **The Hong Kong Polytechnic University** in Sep. 2020. He has published more than 10 technical papers on the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews. He has been one of the **major participants** in various research projects, like Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas.
+**SHAN Yinghao** received his **PhD degree** from **The Hong Kong Polytechnic University** in Sep. 2020. He has published more than 10 technical papers on the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews. He has been one of the **major participants** in various scientific research projects, like Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of scientific and industrial experience in the field of smart grids and intelligent controls.
 
 ### **Research topics**
 
