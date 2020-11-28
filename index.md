@@ -54,6 +54,8 @@ Fuzzy logic control, Artificial neural network
 
 You can also visit my other pages:
 
+[Google Scholar](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
+
 [Researchgate](https://www.researchgate.net/profile/Yinghao_Shan3)
 
 [Publons (peer review records)](https://publons.com/researcher/3014495/yinghao-shan)
