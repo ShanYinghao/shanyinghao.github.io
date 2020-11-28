@@ -15,6 +15,10 @@
   </tr>
 </table>
 
+### **Short biography**
+
+SHAN Yinghao received his **PhD** from **The Hong Kong Polytechnic University** in Sep. 2020. He has published more than 10 technical papers on the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews. He has been one of the **major participants** in various research projects, like Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas.
+
 ### **Research topics**
 
 1) **Sustainable Energy Systems & Power Electronics**: 
@@ -29,7 +33,7 @@ Parallel systems control, Model predictive control (MPC) for microgrids, Operati
 
 Fuzzy logic control, Artificial neural network
 
-### **Publications**
+### **Publications (selected)**
 
 1) **Y. Shan**, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in **IEEE Transactions on Smart Grid. Published**, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. 
 
