@@ -16,13 +16,19 @@
 
 ### **Research topics**
 
-1) **Sustainable Energy Systems & Power Electronics**: Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation forecast
+1) **Sustainable Energy Systems & Power Electronics**: 
 
-2) **Microgrids & Smart Grid Technologies**: Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
+Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation forecast
 
-3) **Intelligent algorithms**: Fuzzy logic control, Artificial neural network
+2) **Microgrids & Smart Grid Technologies**: 
 
-### Publications
+Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
+
+3) **Intelligent algorithms**: 
+
+Fuzzy logic control, Artificial neural network
+
+### **Publications**
 
 1) **Y. Shan**, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in **IEEE Transactions on Smart Grid. Published**, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. 
 
@@ -37,13 +43,13 @@
 6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions, " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019.
 ...
 
-### Awards
+### **Awards**
 
 **Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
 
 **National scholarship for Postgraduates**, Dec. 2016.
 
-### Other Pages
+### **Other Pages**
 
 You can also visit my other pages:
 
@@ -51,8 +57,8 @@ You can also visit my other pages:
 
 [Publons (peer review records)](https://publons.com/researcher/3014495/yinghao-shan)
 
-### Words in the End
+### **Words in the End**
 
-I am looking for outstanding Research / Exchange Students (UG, GR, MSc, MPhil), various scholarships or allowances can be offered. 
+I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships or allowances can be offered. 
 
-Collaboration and industry/government consultancies are also welcome.
+**Collaboration and consultancies** are also welcome.
