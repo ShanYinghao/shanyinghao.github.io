@@ -3,27 +3,17 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>SHAN Yinghao (单英浩)</h1>
+      <p><b>Assistant Professor, Doctor of Philosophy</b></p>
+      <p><b>College of Information Science and Technology, [Donghua University](http://english.dhu.edu.cn/)</b></p>
+      <p><b>Songjiang District, [Shanghai](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7/114606), China</b></p>
+      <p><b>Email: shanyh@dhu.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
-
-SHAN Yinghao (单英浩)
-
-Assistant Professor, Doctor of Philosophy
-
-College of Information Science and Technology, [Donghua University](http://english.dhu.edu.cn/)
-
-Songjiang District, [Shanghai](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7/114606), China
-
-Email: shanyh@dhu.edu.cn
 
 ### Research topics
 
