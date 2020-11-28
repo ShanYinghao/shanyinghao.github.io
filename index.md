@@ -1,14 +1,14 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h1>SHAN Yinghao (单英浩)</h1>
       <p><b>Assistant Professor, Doctor of Philosophy</b></p>
       <p><b>College of Information Science and Technology, Donghua University</b></p>
       <p><b>Songjiang District, Shanghai, China</b></p>
       <p><b>Email: shanyh@dhu.edu.cn</b></p>
     </td>
-    <td width="40%">
+    <td width="35%">
       <img src="/me.jpg" width="100%"> 
     </td>
   </tr>
