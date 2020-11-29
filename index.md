@@ -17,7 +17,9 @@
 
 ### **Short biography**
 
-**SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University** (see its [**ranking**](https://www.polyu.edu.hk/en/about-polyu/university-ranking/)) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University**](http://english.dhu.edu.cn), as an Assistant Professor. He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews. He has been one of the **major participants** in various scientific research projects, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in numerous well-known international journals and conferences.
+**SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University** (see its [**ranking**](https://www.polyu.edu.hk/en/about-polyu/university-ranking/)) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University**](http://english.dhu.edu.cn), as an Assistant Professor. 
+
+He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews. He has been one of the **major participants** in various scientific research projects, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in numerous well-known international journals and conferences.
 
 ### **Research topics**
 
@@ -35,7 +37,7 @@ Fuzzy logic control, Artificial neural network
 
 ### **Publications (selected)**
 
-1) **Y. Shan**, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in **IEEE Transactions on Smart Grid. Published**, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. 
+1) **Y. Shan**, J. Hu and J. M. Guerrero, "A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. 
 
 2) **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. 
 
@@ -54,7 +56,7 @@ Fuzzy logic control, Artificial neural network
 
 **National scholarship for Postgraduates**, Dec. 2016.
 
-### **Other Pages**
+### **Other pages**
 
 You can also visit my other pages:
 
@@ -64,8 +66,8 @@ You can also visit my other pages:
 
 [Publons (peer review records)](https://publons.com/researcher/3014495/yinghao-shan)
 
-### **Words in the End**
+### **Words in the end**
 
-I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships or allowances can be offered. 
+I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
 **Collaboration and consultancies** are also welcome.
