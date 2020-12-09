@@ -21,7 +21,7 @@
 
 He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews, all as the 1st or corresponding author. He has been one of the **major participants** in various scientific research projects, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in more than 20 well-known international journals and conferences.
 
-### **Research topics**
+### **『Research topics』**
 
 1) **Sustainable Energy Systems & Power Electronics**: 
 
@@ -46,7 +46,7 @@ Fuzzy logic control, Artificial neural network
   </tr>
 </table>
 
-### **Publications (selected)**
+### **『Publications (selected)』**
 
 1) **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.267)**
 
@@ -62,13 +62,13 @@ Fuzzy logic control, Artificial neural network
 
 ...
 
-### **Awards**
+### **『Awards』**
 
 **Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
 
 **National scholarship for Postgraduates**, Dec. 2016.
 
-### **Other pages**
+### **『Other pages』**
 
 You can also visit **my other pages**:
 
@@ -78,7 +78,7 @@ You can also visit **my other pages**:
 
 [**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
 
-### **Communication and cooperation**
+### **『Communication and cooperation』**
 
 I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
@@ -86,7 +86,7 @@ I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)
 
 Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me via Email for more details.
 
-### **News**
+### **『News』**
 
 ★2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
