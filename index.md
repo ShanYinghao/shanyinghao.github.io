@@ -39,6 +39,16 @@ Fuzzy logic control, Artificial neural network
 
 ![ParallelDGs](/ParallelDGs.png)
 
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/Microgrid.png" width="100%"> 
+    </td>
+    <td width="50%">
+      <img src="/ParallelDGs.png" width="100%"> 
+    </td>
+  </tr>
+</table>
 
 ### **Publications (selected)**
 
@@ -52,7 +62,7 @@ Fuzzy logic control, Artificial neural network
 
 5) J. Hu, **Y. Shan***, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)**
 
-6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019.
+6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:3.588)**
 
 ...
 
@@ -64,13 +74,13 @@ Fuzzy logic control, Artificial neural network
 
 ### **Other pages**
 
-You can also visit my other pages:
+You can also visit **my other pages**:
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
+[**Google Scholar**](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
 
-[Researchgate](https://www.researchgate.net/profile/Yinghao_Shan3)
+[**Researchgate**](https://www.researchgate.net/profile/Yinghao_Shan3)
 
-[Publons (peer review records)](https://publons.com/researcher/3014495/yinghao-shan)
+[**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
 
 ### **Words in the end**
 
