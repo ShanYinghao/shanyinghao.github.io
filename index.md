@@ -88,6 +88,6 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **News**
 
-★2020-10-8: Today, my review paper entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**". This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
+★2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
