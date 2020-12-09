@@ -35,10 +35,6 @@ Parallel systems control, Model predictive control (MPC) for microgrids, Operati
 
 Fuzzy logic control, Artificial neural network
 
-![Microgrid](/Microgrid.png)
-
-![ParallelDGs](/ParallelDGs.png)
-
 <table border="0">
   <tr>
     <td width="50%">
