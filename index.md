@@ -17,7 +17,7 @@
 
 ### **Short biography**
 
-**SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University** (see its [**ranking**](https://www.polyu.edu.hk/en/about-polyu/university-ranking/)) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University**](http://english.dhu.edu.cn), as a Lecturer. 
+**SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University (HK PolyU)** (see its [**ranking**](https://www.polyu.edu.hk/en/about-polyu/university-ranking/)) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University (DHU)**](http://english.dhu.edu.cn), as a Lecturer. 
 
 He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews, all as the 1st or corresponding author. He has been one of the **major participants** in various scientific research projects, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in more than 20 well-known international journals and conferences.
 
@@ -83,3 +83,5 @@ You can also visit **my other pages**:
 I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
 **Collaboration and consultancies** are also welcome.
+
+Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me via Email for more details.
