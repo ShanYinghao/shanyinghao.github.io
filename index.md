@@ -31,11 +31,14 @@ Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power gen
 
 Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
 
-![InterconnectedMGs](/InterconnectedMGs.png)
-
 3) **Intelligent algorithms**: 
 
 Fuzzy logic control, Artificial neural network
+
+![Microgrid](/Microgrid.png)
+
+![ParallelDGs](/ParallelDGs.png)
+
 
 ### **Publications (selected)**
 
