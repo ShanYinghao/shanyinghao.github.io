@@ -78,12 +78,16 @@ You can also visit **my other pages**:
 
 [**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
 
-### **Words in the end**
+### **Communication and cooperation**
 
 I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
 **Collaboration and consultancies** are also welcome.
 
 Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me via Email for more details.
+
+### **News**
+
+2020-10-8: Today, my review paper entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**". This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
