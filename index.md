@@ -84,7 +84,7 @@ I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)
 
 **Collaboration and consultancies** are also welcome.
 
-Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me via Email for more details.
+Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me [**via Email**](shanyh@dhu.edu.cn) for more details.
 
 ### **『News』**
 
@@ -94,7 +94,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/MyQRCode.png" width="20%"> 
+      <img src="/MyQRCode.png" width="20%" class="aligncenter"> 
     </td>
   </tr>
 </table>
