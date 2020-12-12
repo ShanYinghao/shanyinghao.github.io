@@ -94,11 +94,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 <table border="0">
   <tr>
     <td width="100%">
-      .aligncenter 
-      {clear: both;
-    display: block;
-    margin: auto; }
-      <img src="/MyQRCode.png" width="20%" class="aligncenter"> 
+     <img src="/MyQRCode.png" width="20%" align="center"> 
     </td>
   </tr>
 </table>
