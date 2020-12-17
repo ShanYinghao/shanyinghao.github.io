@@ -70,7 +70,7 @@ Fuzzy logic control, Artificial neural network
 
 **National scholarship for Postgraduates**, Dec. 2016.
 
-### **『Other pages』**
+### **『Other profiles』**
 
 You can also visit **my other pages**:
 
