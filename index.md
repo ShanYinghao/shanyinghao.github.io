@@ -62,9 +62,9 @@ Fuzzy logic control, Artificial neural network
 
 7) **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed)
 
-8) **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2018), Hong Kong, China, 2018, pp. 1-5.
+8) **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
 
-9) **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (ECCE), Portland, OR, 2018, pp. 6257-6262.
+9) **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (**ECCE 2018**), Portland, OR, 2018, pp. 6257-6262.
 
 ...
 
