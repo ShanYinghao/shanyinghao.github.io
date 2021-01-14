@@ -60,7 +60,7 @@ Fuzzy logic control, Artificial neural network
 
 6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:3.588)**
 
-7) **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed)
+7) **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed, **Top** Chinese Journals in electrical engineering)
 
 8) **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
 
