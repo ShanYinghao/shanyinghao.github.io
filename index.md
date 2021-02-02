@@ -56,7 +56,7 @@ Fuzzy logic control, Artificial neural network
 
 4) **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.373)**
 
-5) J. Hu#, **Y. Shan#**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)** *# corresponding author*
+5) J. Hu*, **Y. Shan***, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)** ** corresponding author*
 
 6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:3.588)**
 
