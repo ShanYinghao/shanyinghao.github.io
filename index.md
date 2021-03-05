@@ -48,6 +48,8 @@ Fuzzy logic control, Artificial neural network
 
 ### **『Publications (selected)』**
 
+➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:9.112)**
+
 ➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.267)**
 
 ➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.373)**
