@@ -48,23 +48,23 @@ Fuzzy logic control, Artificial neural network
 
 ### **『Publications (selected)』**
 
-1) **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.267)**
+➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.267)**
 
-2) **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.373)**
+➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.373)**
 
-3) **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:7.44)**
+➤ **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:7.44)**
 
-4) **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.373)**
+➤ **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.373)**
 
-5) J. Hu^, **Y. Shan^**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)** *^ corresponding author*
+➤ J. Hu^, **Y. Shan^**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)** *^ corresponding author*
 
-6) J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:3.588)**
+➤ J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:3.588)**
 
-7) **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed, **Top** Chinese Journals in electrical engineering)
+➤ **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed, **Top** Chinese Journals in electrical engineering)
 
-8) **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
+➤ **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
 
-9) **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (**ECCE 2018**), Portland, OR, 2018, pp. 6257-6262.
+➤ **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (**ECCE 2018**), Portland, OR, 2018, pp. 6257-6262.
 
 ...
 
