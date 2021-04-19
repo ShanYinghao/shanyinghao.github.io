@@ -96,11 +96,11 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
-★2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
+★{Paper}2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
 
-★2021-01-21: One of my projects under "**Fundamental Research Funds for the Central Universities**" had been successfully approved. The topic is "**Research on the Secondary Adaptive Control of Microgrids Based on Model Prediction and Distributed Cooperation methods**". I am the first person in charge. The follow-up work will be carried out soon.
+★{Funding}2021-01-21: One of my projects under "**Fundamental Research Funds for the Central Universities**" had been successfully approved. The topic is "**Research on the Secondary Adaptive Control of Microgrids Based on Model Prediction and Distributed Cooperation methods**". I am the first person in charge. The follow-up work will be carried out soon.
 
-★2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
+★{Paper}2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
 ### Please save/scan my QR code below, stay in touch! 
 <table border="0">
