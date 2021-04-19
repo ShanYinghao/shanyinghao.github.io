@@ -5,7 +5,7 @@
       <h1>SHAN Yinghao (单英浩)</h1>
       <p><b>Lecturer, Doctor of Philosophy</b></p>
       <p><b>College of Information Science and Technology</b></p>
-      <p><b>Donghua University</b></p>
+      <p><b>Donghua University (211, Double First-Class)</b></p>
       <p><b>Songjiang District, Shanghai, China</b></p>
       <p><b>Email: shanyh@dhu.edu.cn</b></p>
     </td>
