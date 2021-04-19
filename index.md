@@ -106,10 +106,10 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 <table border="0">
   <tr>
     <td width="50%" align="center">
-     <img src="/MyQRCode.png" width="20%"> 
+     <img src="/MyQRCode.png" width="40%"> 
     </td>
-     <td width="50%">
-     <img src="/MyQRCode.png" width="20%"> 
+     <td width="50%" align="center">
+     <img src="/MyQRCode2.jpg" width="40%"> 
     </td>
   </tr>
 </table>
