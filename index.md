@@ -19,7 +19,7 @@
 
 **SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University (HK PolyU)** (see its [*ranking*](https://www.polyu.edu.hk/en/about-polyu/university-ranking/) ) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University (DHU)**](http://english.dhu.edu.cn) ([*about DHU*](http://english.dhu.edu.cn/introduction/list.htm) ), as a Lecturer. 
 
-He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, and Renewable and Sustainable Energy Reviews, all as the 1st or corresponding author. He has been one of the **major participants** in various **scientific research projects**, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in more than 20 well-known international journals and conferences.
+He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Informatics, and Renewable and Sustainable Energy Reviews, all as the 1st or corresponding author. He has been one of the **major participants** in various **scientific research projects**, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in more than 20 well-known international journals and conferences.
 
 ### **『Research topics』**
 
@@ -105,7 +105,10 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 ### Please save/scan my QR code below, stay in touch! 
 <table border="0">
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
+     <img src="/MyQRCode.png" width="20%"> 
+    </td>
+     <td width="50%">
      <img src="/MyQRCode.png" width="20%"> 
     </td>
   </tr>
