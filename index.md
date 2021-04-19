@@ -25,7 +25,7 @@ He has published more than 10 technical papers in the **top-tier refereed journa
 
 1) **Sustainable Energy Systems & Power Electronics**: 
 
-Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation forecast
+Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation / load consumption forecast
 
 2) **Microgrids & Smart Grid Technologies**: 
 
@@ -33,7 +33,7 @@ Parallel systems control, Model predictive control (MPC) for microgrids, Operati
 
 3) **Intelligent algorithms**: 
 
-Fuzzy logic control, Artificial neural network
+Fuzzy logic control, Artificial neural network, Particle swarm optimization, Distributed control
 
 <table border="0">
   <tr>
