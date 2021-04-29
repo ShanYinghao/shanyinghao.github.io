@@ -118,13 +118,3 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 *Know more about **Shanghai**: 
 please visit [**Official Encyclopedia**](http://zhuanti.shanghai.gov.cn/newencyclopedia/en/Default3.aspx), [**Travel Guides**](https://hk.trip.com/travel-guide/shanghai-2/)*
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?edc2df24eff87774113bdfee1234f9d5";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
