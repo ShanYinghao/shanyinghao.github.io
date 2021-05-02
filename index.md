@@ -116,6 +116,8 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
   </tr>
 </table>
 
+[**中文网页（Personal Page Chinese Version）**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
+
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
 *Know more about **Shanghai**: 
 please visit [**Official Encyclopedia**](http://zhuanti.shanghai.gov.cn/newencyclopedia/en/Default3.aspx), [**Travel Guides**](https://hk.trip.com/travel-guide/shanghai-2/)*
