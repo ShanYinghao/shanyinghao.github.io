@@ -96,6 +96,8 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
+★{Funding}2021-04-28: My "Initial Research Funds for Yong Teachers of Donghua University" has been fully issued.
+
 ★{Paper}2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
 
 ★{Funding}2021-01-21: One of my projects under "**Fundamental Research Funds for the Central Universities**" had been successfully approved. The topic is "**Research on the Secondary Adaptive Control of Microgrids Based on Model Prediction and Distributed Cooperation methods**". I am the first person in charge. The follow-up work will be carried out soon.
