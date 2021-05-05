@@ -1,4 +1,4 @@
-**➤**[**中文网页（Personal Page Chinese Version）**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
+➤ [**中文网页（Personal Page Chinese Version）**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
 
 <table border="0">
   <tr>
@@ -73,19 +73,19 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『Awards』**
 
-**Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
+➤ **Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
 
-**National scholarship for Postgraduates**, Dec. 2016.
+➤ **National scholarship for Postgraduates**, Dec. 2016.
 
 ### **『Other profiles』**
 
 You can also visit **my other pages**:
 
-[**Google Scholar**](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
+➤ [**Google Scholar**](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
 
-[**Researchgate**](https://www.researchgate.net/profile/Yinghao_Shan3)
+➤ [**Researchgate**](https://www.researchgate.net/profile/Yinghao_Shan3)
 
-[**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
+➤ [**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
 
 ### **『Communication and cooperation』**
 
