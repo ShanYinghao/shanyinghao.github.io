@@ -1,4 +1,4 @@
-➤ **Click here for Chinese Personal Page** ➤ [**中文网页**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
+**Click here for Chinese Personal Page** ➤➤➤ [**中文网页**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
 
 <table border="0">
   <tr>
@@ -72,6 +72,8 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 ...
 
 ### **『Awards』**
+
+➤ **Full scholarship for PhD**, HK-PolyU Funding, 2018-2020.
 
 ➤ **Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
 
