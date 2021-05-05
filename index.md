@@ -1,3 +1,4 @@
+**➤**[**中文网页（Personal Page Chinese Version）**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
 
 <table border="0">
   <tr>
@@ -23,15 +24,15 @@ He has published more than 10 technical papers in the **top-tier refereed journa
 
 ### **『Research topics』**
 
-1) **Sustainable Energy Systems & Power Electronics**: 
+➤ **Sustainable Energy Systems & Power Electronics**: 
 
 Solar photovoltaic (PV), Wind turbine systems, MPPT, Grid integration, Power generation / load consumption forecast
 
-2) **Microgrids & Smart Grid Technologies**: 
+➤ **Microgrids & Smart Grid Technologies**: 
 
 Parallel systems control, Model predictive control (MPC) for microgrids, Operation modes (islanded, grid-connected and their transitions), Primary & secondary control
 
-3) **Intelligent algorithms**: 
+➤ **Intelligent algorithms**: 
 
 Fuzzy logic control, Artificial neural network, Particle swarm optimization, Distributed control
 
@@ -96,7 +97,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
-★{Funding}2021-04-28: My "Initial Research Funds for Yong Teachers of Donghua University" has been fully issued.
+★{Funding}2021-04-28: My "**Initial Research Funds for Yong Teachers of Donghua University**" has been fully issued.
 
 ★{Paper}2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
 
@@ -115,8 +116,6 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
     </td>
   </tr>
 </table>
-
-[**中文网页（Personal Page Chinese Version）**](https://mp.weixin.qq.com/s/ZacUTnV-addyjpIHQCLutQ)
 
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
 *Know more about **Shanghai**: 
