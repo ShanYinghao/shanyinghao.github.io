@@ -99,6 +99,8 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
+➤ {Funding}2021-05-19: My "**Shanghai Sailing Program**" has been approved, it is about using MPC to address the fluctuations from renewables.
+
 ➤ {Funding}2021-04-28: My "**Initial Research Funds for Yong Teachers of Donghua University**" has been fully issued.
 
 ➤ {Paper}2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
