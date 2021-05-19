@@ -99,7 +99,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
-➤ {Funding}2021-05-19: My "**Shanghai Sailing Program**" has been approved, it is about using MPC to address the fluctuations from renewables.
+➤ {Funding}2021-05-19: My "[**Shanghai Sailing Program**](http://stcsm.sh.gov.cn/zwgk/tzgs/gsgg/bsgsgg/kjjhxmjggb/20210518/9ecb2e8bc52742488372c9330c9a344f.html)" has been approved, it is about using MPC to address the fluctuations from renewables.
 
 ➤ {Funding}2021-04-28: My "**Initial Research Funds for Yong Teachers of Donghua University**" has been fully issued.
 
