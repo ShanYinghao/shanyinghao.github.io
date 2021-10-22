@@ -113,7 +113,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 <table border="0">
   <tr>
     <td width="100%" align="center">
-     <img src="/MyQRCode.png" width="40%"> 
+     <img src="/MyQRCode.png" width="20%"> 
     </td>
   </tr>
 </table>
