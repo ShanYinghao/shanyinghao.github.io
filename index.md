@@ -112,11 +112,8 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 ### Please save/scan my QR code below, stay in touch! 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
-     <img src="/MyQRCode.png" width="40%"> 
-    </td>
-     <td width="50%" align="center">
-     <img src="/MyQRCode2.jpg" width="65%"> 
+    <td width="100%" align="center">
+     <img src="/MyQRCode.png" width="100%"> 
     </td>
   </tr>
 </table>
