@@ -121,4 +121,4 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
 *Know more about **Shanghai**: 
 please visit [**Official Encyclopedia**](http://zhuanti.shanghai.gov.cn/newencyclopedia/en/Default3.aspx), [**Travel Guides**](https://hk.trip.com/travel-guide/shanghai-2/)*
-![](https://visitor-badge.glitch.me/badge?page_id=shanyinghao.github.io)
+
