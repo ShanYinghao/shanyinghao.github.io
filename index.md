@@ -49,6 +49,8 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『Publications (selected)』**
 
+➤ **Y. Shan**, J. Hu, and H. Liu, "[**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**](https://ieeexplore.ieee.org/document/9591449)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:10.215)**
+
 ➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Published, vol. 17, no. 12, pp. 8024-8034, Dec. 2021. **(Q1, IF:10.215)**
 
 ➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.96)**
