@@ -1,5 +1,7 @@
 **Click here for Chinese Personal Page** ➤➤➤ [**中文网页**](https://mp.weixin.qq.com/s/oxhoWVStrLthaozyrhAydQ)
 
+2021年上海电源学会年度学术交流会安排在11月27日在东华大学松江校区举办，上海电源学会会员免费参加，围绕着“双碳”背景下能源电力技术领域开展研讨，邀请著名行业专家就综合能源系统的发展趋势、电力变换新技术、智慧能源等发表主旨演讲，详见会议通知，报名方式如下，欢迎大家齐聚美丽的东华大学~
+
 <table border="0">
   <tr>
     <td width="65%">
