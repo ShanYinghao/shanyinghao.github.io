@@ -49,15 +49,15 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『Publications (selected)』**
 
-➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Published, vol. 17, no. 12, pp. 8024-8034, Dec. 2021. **(Q1, IF:9.112)**
+➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Published, vol. 17, no. 12, pp. 8024-8034, Dec. 2021. **(Q1, IF:10.215)**
 
-➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.267)**
+➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.96)**
 
-➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.373)**
+➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.153)**
 
-➤ **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:7.44)**
+➤ **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:7.917)**
 
-➤ **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.373)**
+➤ **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.153)**
 
 ➤ J. Hu^, **Y. Shan^**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:12.11)** *^ corresponding author*
 
