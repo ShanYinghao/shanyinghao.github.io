@@ -118,7 +118,14 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『News』**
 
-➤ {Paper}2021-11-19: My review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)!! I'm one of the corresponding authors.
+➤ {Paper}2021-11-19: My review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! I'm one of the corresponding authors.
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+     <img src="/高被引截图6.png" width="70%"> 
+    </td>
+  </tr>
+</table>
 
 ➤ {Paper}2021-10-28: My paper (1st author) entitled "**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9591449)!
 
