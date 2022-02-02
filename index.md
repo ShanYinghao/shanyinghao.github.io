@@ -84,6 +84,8 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Conferences (selected)------』**
 
+➤ **Y. Shan**, J. Hu and H. Liu, "[**Economic Dispatch of Model Predictive Controlled Distributed Power Generation**](https://ieeexplore.ieee.org/document/9680878)," 2021 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (**PRECEDE 2021**), Jinan, China, 2021, pp. 836-839.
+
 ➤ **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
 
 ➤ **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (**ECCE 2018**), Portland, OR, 2018, pp. 6257-6262.
