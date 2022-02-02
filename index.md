@@ -1,6 +1,6 @@
 **Click here for Chinese Personal Page** ➤➤➤ [**中文网页**](https://mp.weixin.qq.com/s/oxhoWVStrLthaozyrhAydQ)
 
-### **『--------------------Top post--------------------』**
+### **『------Top post------』**
 
 ➤ [2022年亚洲电力与电气技术会议 **2022 Asia Power and Electrical Technology Conference (APET 2022)**](http://www.apet.net)将于2022年11月11-13日在中国上海（November 11-13, 2022 • Shanghai, China）举办，欢迎关注且投稿 [**Special Session 1: Advanced Control and Optimal Management of Cyber-Physical Smart Grids**](http://www.apet.net/ss.html)！
 <table border="0">
@@ -29,13 +29,13 @@
   </tr>
 </table>
 
-### **『--------------------Short biography--------------------』**
+### **『------Short biography------』**
 
 **SHAN Yinghao** received his **PhD degree** from the **Department of Electrical Engineering**, **The Hong Kong Polytechnic University (HK PolyU)** (see its [*ranking*](https://www.polyu.edu.hk/en/about-polyu/university-ranking/) ) in Sep. 2020. Subsequently, he joined the [**College of Information Science and Technology**](http://web.dhu.edu.cn/cist), [**Donghua University (DHU)**](http://english.dhu.edu.cn) ([*about DHU*](http://english.dhu.edu.cn/introduction/list.htm) ), as a Lecturer. 
 
 He has published more than 10 technical papers in the **top-tier refereed journals**, such as IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Informatics, and Renewable and Sustainable Energy Reviews, all as the 1st or corresponding author. He has been one of the **major participants** in various **scientific research projects**, like the Hong Kong Research Grant Council Projects, Hong Kong Innovation and Technology Fundings, and Guangdong-Hong Kong Breakthrough Project in Key Areas. He has a mix of **scientific and industrial experience** in the field of smart grids and intelligent controls. He is an **active Invited Reviewer** in more than 20 well-known international journals and conferences.
 
-### **『--------------------Research topics--------------------』**
+### **『------Research topics------』**
 
 ➤ **Sustainable Energy Systems & Power Electronics**: 
 
@@ -60,7 +60,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
   </tr>
 </table>
 
-### **『--------------------Publications (selected)--------------------』**
+### **『------Publications (selected)------』**
 
 ➤ **Y. Shan**, J. Hu, and H. Liu, "[**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**](https://ieeexplore.ieee.org/document/9591449)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:10.215)**
 
@@ -82,7 +82,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ...
 
-### **『--------------------Conferences (selected)--------------------』**
+### **『------Conferences (selected)------』**
 
 ➤ **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
 
@@ -90,7 +90,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ...
 
-### **『--------------------Awards--------------------』**
+### **『------Awards------』**
 
 ➤ **Full scholarship for PhD**, HK-PolyU Funding, 2018-2020.
 
@@ -98,7 +98,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ➤ **National scholarship for Postgraduates**, Dec. 2016.
 
-### **『--------------------Other profiles--------------------』**
+### **『------Other profiles------』**
 
 You can also visit **my other pages**:
 
@@ -108,7 +108,7 @@ You can also visit **my other pages**:
 
 ➤ [**Publons (peer review records)**](https://publons.com/researcher/3014495/yinghao-shan)
 
-### **『--------------------Communication and cooperation--------------------』**
+### **『------Communication and cooperation------』**
 
 I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
@@ -116,7 +116,7 @@ I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)
 
 Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me **via Email** for more details.
 
-### **『--------------------News--------------------』**
+### **『------News------』**
 
 ➤ {Paper}2021-11-19: My review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! I'm one of the corresponding authors.
 <table border="0">
@@ -139,11 +139,11 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ➤ {Paper}2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
-### **『--------------------History records--------------------』**
+### **『------History records------』**
 
 ➤ **2021年上海电源学会年度学术交流会**安排在**11月27日**在**东华大学松江校区**举办，上海电源学会会员免费参加，围绕着“双碳”背景下能源电力技术领域开展研讨，邀请著名行业专家就综合能源系统的发展趋势、电力变换新技术、智慧能源等发表主旨演讲，详见[**会议通知**](https://github.com/ShanYinghao/shanyinghao.github.io/raw/main/2021%E5%B9%B4%E5%BA%A6%E4%B8%8A%E6%B5%B7%E7%94%B5%E6%BA%90%E5%AD%A6%E4%BC%9A%E5%B9%B4%E5%BA%A6%E4%BA%A4%E6%B5%81%E4%BC%9A%E8%AE%AE%E9%80%9A%E7%9F%A5%20V2.0.pdf)，***[已截止]***，欢迎大家齐聚美丽的东华大学~
 
-### **『--------------------QR contact--------------------』**
+### **『------Contact------』**
 
 ### Please save/scan my QR code below, stay in touch! 
 <table border="0">
