@@ -96,6 +96,8 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Awards------』**
 
+➤ **Shanghai Leading Talents (Overseas) Project**, 2022.
+
 ➤ **Full scholarship for PhD**, HK-PolyU Funding, 2018-2020.
 
 ➤ **Best Paper Award**, "IET International Conference on Advanced Power System Control, Operation and Management (APSCOM)", Hong Kong, Dec. 2018.
