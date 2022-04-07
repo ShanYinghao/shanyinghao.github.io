@@ -65,7 +65,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ➤ **Y. Shan**, A. Pan, and H. Liu, "[**A switching event-triggered resilient control scheme for primary and secondary levels in AC microgrids**](https://www.sciencedirect.com/science/article/pii/S0019057822000994)," in **ISA Transactions**. Online, 2022. **(Q1, IF:5.468)**
 
-➤ J. Hu, **Y. Shan**, K. W. Cheng, and S. Islam, "[**Overview of Power Converter Control in Microgrids Challenges, Advances, and Future Trends**](https://ieeexplore.ieee.org/document/9736451)," in **IEEE Transactions on Power Electronics**. Online, 2022. **(Q1, IF:5.468)**
+➤ J. Hu, **Y. Shan**, K. W. Cheng, and S. Islam, "[**Overview of Power Converter Control in Microgrids Challenges, Advances, and Future Trends**](https://ieeexplore.ieee.org/document/9736451)," in **IEEE Transactions on Power Electronics**. Online, 2022. **(Q1, IF:6.153)**
 
 ➤ **Y. Shan**, J. Hu, and H. Liu, "[**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**](https://ieeexplore.ieee.org/document/9591449)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:10.215)**
 
