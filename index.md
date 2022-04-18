@@ -1,5 +1,3 @@
-// **Click here for Chinese Personal Page** ➤➤➤ [**中文网页**](https://mp.weixin.qq.com/s/oxhoWVStrLthaozyrhAydQ)
-
 ### **『------Top post------』**
 
 ➤ [2022年亚洲电力与电气技术会议 **2022 Asia Power and Electrical Technology Conference (APET 2022)**](http://www.apet.net)将于2022年11月11-13日在中国上海（November 11-13, 2022 • Shanghai, China）举办，欢迎关注和投稿 [**Special Session 1: Advanced Control and Optimal Management of Cyber-Physical Smart Grids**](http://www.apet.net/ss.html)：)
