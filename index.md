@@ -129,8 +129,11 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 ➤ {Paper}2021-11-19: My review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! I'm one of the corresponding authors.
 <table border="0">
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
      <img src="/高被引截图6.png" width="70%"> 
+    </td>
+    <td width="50%" align="center">
+     <img src="/review_esi.png" width="70%"> 
     </td>
   </tr>
 </table>
