@@ -108,7 +108,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Other profiles------』**
 
-You can also visit his **other pages**:
+You can also visit **other pages**:
 
 ➤ [**Google Scholar**](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
 
