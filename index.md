@@ -108,7 +108,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Other profiles------』**
 
-You can also visit **my other pages**:
+You can also visit his **other pages**:
 
 ➤ [**Google Scholar**](https://scholar.google.com.hk/citations?user=LusDny4AAAAJ&hl=zh-CN&oi=ao)
 
@@ -118,15 +118,15 @@ You can also visit **my other pages**:
 
 ### **『------Communication and cooperation------』**
 
-I am looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
+He is looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
 
 **Collaboration and consultancies** are also welcome.
 
-Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact me **via Email** for more details.
+Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact him **via Email** for more details.
 
 ### **『------News------』**
 
-➤ {Paper}2021-11-19: My review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! I'm one of the corresponding authors.
+➤ {Paper}2021-11-19: The review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! 
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -138,17 +138,17 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
   </tr>
 </table>
 
-➤ {Paper}2021-10-28: My paper (1st author) entitled "**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9591449)!
+➤ {Paper}2021-10-28: The paper (1st author) entitled "**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9591449)!
 
-➤ {Funding}2021-05-19: My "[**Shanghai Sailing Program**](http://stcsm.sh.gov.cn/zwgk/tzgs/gsgg/bsgsgg/kjjhxmjggb/20210518/9ecb2e8bc52742488372c9330c9a344f.html)" has been approved, it is about using MPC to address the fluctuations from renewables.
+➤ {Funding}2021-05-19: The "[**Shanghai Sailing Program**](http://stcsm.sh.gov.cn/zwgk/tzgs/gsgg/bsgsgg/kjjhxmjggb/20210518/9ecb2e8bc52742488372c9330c9a344f.html)" has been approved, it is about using MPC to address the fluctuations from renewables.
 
-➤ {Funding}2021-04-28: My "**Initial Research Funds for Yong Teachers of Donghua University**" has been fully issued.
+➤ {Funding}2021-04-28: The "**Initial Research Funds for Yong Teachers of Donghua University**" has been fully issued.
 
-➤ {Paper}2021-03-04: My paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
+➤ {Paper}2021-03-04: The paper (1st author) entitled "**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9369108)!
 
-➤ {Funding}2021-01-21: One of my projects under "**Fundamental Research Funds for the Central Universities**" had been successfully approved. The topic is "**Research on the Secondary Adaptive Control of Microgrids Based on Model Prediction and Distributed Cooperation methods**". I am the first person in charge. The follow-up work will be carried out soon.
+➤ {Funding}2021-01-21: One of the projects under "**Fundamental Research Funds for the Central Universities**" had been successfully approved. The topic is "**Research on the Secondary Adaptive Control of Microgrids Based on Model Prediction and Distributed Cooperation methods**".
 
-➤ {Paper}2020-10-8: Today, my paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
+➤ {Paper}2020-10-8: Today, the paper (review paper) entitled "**Model predictive control of microgrids – An overview**" is online now! Published in the journal "**Renewable and Sustainable Energy Reviews**", Q1 top journal. This paper is supported by **three IEEE fellows**! Take a first look at [**here**](https://www.sciencedirect.com/science/article/pii/S1364032120307097)!
 
 ### **『------History records------』**
 
@@ -156,7 +156,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 
 ### **『------Contact------』**
 
-### Please save/scan my QR code below, stay in touch! 
+### Please save/scan the QR code below, stay in touch! 
 <table border="0">
   <tr>
     <td width="100%" align="center">
