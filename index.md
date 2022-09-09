@@ -130,7 +130,7 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 <table border="0">
   <tr>
     <td width="50%" align="center">
-     <img src="/高被引截图6.png" width="100%"> 
+     <img src="/HighCite1.png" width="100%"> 
     </td>
     <td width="50%" align="center">
      <img src="/review_esi.png" width="70%"> 
