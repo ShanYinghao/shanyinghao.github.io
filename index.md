@@ -168,3 +168,6 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
 ![China_Shanghai_DHU](/China_Shanghai_DHU.png)
 *Know more about **Shanghai**: 
 please visit [**Official Encyclopedia**](http://zhuanti.shanghai.gov.cn/newencyclopedia/en/Default3.aspx), [**Travel Guides**](https://hk.trip.com/travel-guide/shanghai-2/)*
+
+
+<a href="https://info.flagcounter.com/KGbv"><img src="https://s01.flagcounter.com/map/KGbv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
