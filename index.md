@@ -114,6 +114,8 @@ You can also visit **other pages**:
 
 ➤ [**Researchgate**](https://www.researchgate.net/profile/Yinghao_Shan3)
 
+➤ [**Scopus Page**](https://www.scopus.com/authid/detail.uri?authorId=57201423589)
+
 ➤ [**Web of Science (Publons, peer review records)**](https://www.webofscience.com/wos/author/record/632263)
 
 ### **『------Communication and cooperation------』**
