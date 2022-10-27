@@ -17,8 +17,7 @@
     <td width="65%">
       <h1>SHAN Yinghao (单英浩)</h1>
       <p><b>Lecturer, Doctor of Philosophy</b></p>
-      <p><b>College of Information Science and Technology, 
-        also with State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
+      <p><b>College of Information Science and Technology</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
       <p><b>Songjiang District, Shanghai, China</b></p>
       <p><b>Email: shanyh@dhu.edu.cn</b></p>
@@ -62,25 +61,25 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Publications (selected)------』**
 
-➤ **Y. Shan**, A. Pan, and H. Liu, "[**A switching event-triggered resilient control scheme for primary and secondary levels in AC microgrids**](https://www.sciencedirect.com/science/article/pii/S0019057822000994)," in **ISA Transactions**. Online, 2022. **(Q2, IF:5.468)**
+➤ **Y. Shan**, A. Pan, and H. Liu, "[**A switching event-triggered resilient control scheme for primary and secondary levels in AC microgrids**](https://www.sciencedirect.com/science/article/pii/S0019057822000994)," in **ISA Transactions**. Online, 2022. **(Q1, IF:5.911)**
 
-➤ J. Hu, **Y. Shan**, K. W. Cheng, and S. Islam, "[**Overview of Power Converter Control in Microgrids Challenges, Advances, and Future Trends**](https://ieeexplore.ieee.org/document/9736451)," in **IEEE Transactions on Power Electronics**. Online, 2022. **(Q1, IF:6.153)**
+➤ J. Hu, **Y. Shan**, K. W. Cheng, and S. Islam, "[**Overview of Power Converter Control in Microgrids Challenges, Advances, and Future Trends**](https://ieeexplore.ieee.org/document/9736451)," in **IEEE Transactions on Power Electronics**. Online, 2022. **(Q1, IF:5.967)**
 
-➤ **Y. Shan**, J. Hu, and H. Liu, "[**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**](https://ieeexplore.ieee.org/document/9591449)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:10.215)**
+➤ **Y. Shan**, J. Hu, and H. Liu, "[**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**](https://ieeexplore.ieee.org/document/9591449)," in **IEEE Transactions on Industrial Informatics**. Online, 2021. **(Q1, IF:11.648)**
 
-➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Published, vol. 17, no. 12, pp. 8024-8034, Dec. 2021. **(Q1, IF:10.215)**
+➤ **Y. Shan**, J. Hu, K. W. Chan and S. Islam, "[**A Unified Model Predictive Voltage and Current Control for Microgrids with Distributed Fuzzy Cooperative Secondary Control**](https://ieeexplore.ieee.org/document/9369108)," in **IEEE Transactions on Industrial Informatics**. Published, vol. 17, no. 12, pp. 8024-8034, Dec. 2021. **(Q1, IF:11.648)**
 
-➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:8.96)**
+➤ **Y. Shan**, J. Hu and J. M. Guerrero, "[**A Model Predictive Power Control Method for PV and Energy Storage Systems with Voltage Support Capability**](https://ieeexplore.ieee.org/document/8766341)," in **IEEE Transactions on Smart Grid**. Published, vol. 11, no. 2, pp. 1018-1029, Mar. 2020. **(Q1, IF:10.275)**
 
-➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:6.153)**
+➤ **Y. Shan**, J. Hu, M. Liu, J. Zhu and J. M. Guerrero, "[**Model Predictive Voltage and Power Control of Islanded PV-Battery Microgrids with Washout Filter Based Power Sharing Strategy**](https://ieeexplore.ieee.org/document/8768012)," in **IEEE Transactions on Power Electronics**. Published, vol. 35, no. 2, pp. 1227-1238, Feb. 2020. **(Q1, IF:5.967)**
 
-➤ **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:7.917)**
+➤ **Y. Shan**, J. Hu, K. W. Chan, Q. Fu and J. M. Guerrero, "[**Model Predictive Control of Bidirectional DC-DC Converters and AC/DC Interlinking Converters - A New Control Method for PV-Wind-Battery Microgrids**](https://ieeexplore.ieee.org/document/8478371)," in **IEEE Transactions on Sustainable Energy**. Published, vol. 10, no. 4, pp. 1823-1833, Oct. 2019. **(Q1, IF:8.31)**
 
-➤ **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:6.153)**
+➤ **Y. Shan**, J. Hu, Z. Li and J. M. Guerrero, "[**A Model Predictive Control for Renewable Energy Based AC Microgrids Without Any PID Regulators**](https://ieeexplore.ieee.org/document/8329538)," in **IEEE Transactions on Power Electronics**, Published, vol. 33, no. 11, pp. 9122-9126, Nov. 2018. **(Q1, IF:5.967)**
 
-➤ J. Hu^, **Y. Shan^**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:14.982)** *^ corresponding author*
+➤ J. Hu^, **Y. Shan^**, J. M. Guerrero, A. Ioinovici, K. W. Chan, J. Rodriguez, "[**Model predictive control of microgrids – An overview**](https://www.sciencedirect.com/science/article/abs/pii/S1364032120307097)," in **Renewable and Sustainable Energy Reviews**, Online, vol. 136, 2021. **(Q1, IF:16.799)** *^ corresponding author*
 
-➤ J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:4.63)**
+➤ J. Hu, **Y. Shan**, Y. Xu and J. M. Guerrero, "[**A coordinated control of hybrid ac/dc microgrids with PV-wind-battery under variable generation and load conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0142061518310676), " in **International Journal of Electrical Power & Energy Systems**, Published, vol. 104, pp. 583-592, Jan. 2019. **(Q2, IF:5.659)**
 
 ➤ **单英浩**, 付青, 耿炫, 朱昌亚. [**基于改进BP-SVM-ELM与粒子化SOM-LSF的微电网光伏发电组合预测方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=ZGDC201612024&v=8%25mmd2BqyAWanNZni8pcqwdTmEy12cA55TTGvcSCGm2Osh3BcNG31xMe77SocMdQ4tEtG)[J]. **中国电机工程学报**, 2016, 36(12): 3334-3343. (In **Chinese**, **EI** indexed, **Top** Chinese Journals in electrical engineering)
 
@@ -98,7 +97,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Awards------』**
 
-➤ **Shanghai Leading Talents (Overseas) Project**, 2022.
+➤ **Shanghai Leading Talents (Overseas) Project**, 2021.
 
 ➤ **Full scholarship for PhD**, HK-PolyU Funding, 2018-2020.
 
