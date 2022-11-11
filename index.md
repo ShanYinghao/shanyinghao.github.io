@@ -1,7 +1,8 @@
 ### Welcome!
 ### **『------Top post------』** banner.png
 
-➤ We are inviting submissions to the Special Issue on “[**Microgrid and Smart Grid: Latest Advances and Prospects**](https://www.mdpi.com/journal/applsci/special_issues/7ARDLCM206)”. The Keywords are: microgrid; smart grid; hierarchical control; droop control (grid-forming converter); model predictive control; cyber-physical system; artificial intelligence algorithms; ...
+➤ We are inviting submissions to the Special Issue on “[**Microgrid and Smart Grid: Latest Advances and Prospects**](https://www.mdpi.com/journal/applsci/special_issues/7ARDLCM206)”. The papers will be published on **Applied Sciences**.
+The **Keywords** are: microgrid; smart grid; hierarchical control; droop control (grid-forming converter); model predictive control; cyber-physical system; artificial intelligence algorithms; ...
 <table border="0">
   <tr>
     <td width="100%" align="center">
