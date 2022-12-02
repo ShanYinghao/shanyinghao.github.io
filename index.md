@@ -16,11 +16,10 @@ The **Keywords** are: microgrid; smart grid; hierarchical control; droop control
 
 ➤ [2023年亚洲电力与电气技术会议 **2023 Asia Power and Electrical Technology Conference (APET 2023)**](http://www.apet.net)将于2023年11月17-19日在中国上海（November 17-19, 2023 • Shanghai, China）举办，欢迎关注和投稿 [**Special Session 1: Advanced Control and Optimal Management of Cyber-Physical Smart Grids**](http://www.apet.net/ss1.html)
 
-[**Submit to this Special Session!**](https://susy.mdpi.com/user/manuscripts/upload?form[journal_id]=90&form[special_issue_id]=147750)
 <table border="0">
   <tr>
     <td width="100%" align="center">
-     <img src="/banner.png" width="70%"> 
+     <img src="/APET2023.png" width="70%"> 
     </td>
   </tr>
 </table>
