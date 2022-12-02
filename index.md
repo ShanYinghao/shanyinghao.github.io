@@ -2,9 +2,7 @@
 ### **『------Top post------』** 
 
 ➤ We are inviting submissions to the **Special Issue** on “[**Microgrid and Smart Grid: Latest Advances and Prospects**](https://www.mdpi.com/journal/applsci/special_issues/7ARDLCM206)”. The papers will be published on **Applied Sciences**.
-
 The **Keywords** are: microgrid; smart grid; hierarchical control; droop control (grid-forming converter); model predictive control; cyber-physical system; artificial intelligence algorithms; ... Please see [**flyer**](https://www.mdpi.com/journal/applsci/special_issue_flyer_pdf/7ARDLCM206/web) for details.
-
 [**Submit to this Special Issue!**](https://susy.mdpi.com/user/manuscripts/upload?form[journal_id]=90&form[special_issue_id]=147750)
 <table border="0">
   <tr>
@@ -13,9 +11,7 @@ The **Keywords** are: microgrid; smart grid; hierarchical control; droop control
     </td>
   </tr>
 </table>
-
 ➤ [2023年亚洲电力与电气技术会议 **2023 Asia Power and Electrical Technology Conference (APET 2023)**](http://www.apet.net)将于2023年11月17-19日在中国上海（November 17-19, 2023 • Shanghai, China）举办，欢迎关注和投稿 [**Special Session 1: Advanced Control and Optimal Management of Cyber-Physical Smart Grids**](http://www.apet.net/ss1.html)
-
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -23,9 +19,7 @@ The **Keywords** are: microgrid; smart grid; hierarchical control; droop control
     </td>
   </tr>
 </table>
-
 --------
-
 <table border="0">
   <tr>
     <td width="65%">
