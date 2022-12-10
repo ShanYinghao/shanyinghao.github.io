@@ -105,7 +105,7 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ### **『------Awards------』**
 
-➤ **Shanghai Leading Talents (Overseas) Project**, 2021.
+➤ **Shanghai Overseas Project**, 2021.
 
 ➤ **Full scholarship for PhD**, HK-PolyU Funding, 2018-2020.
 
