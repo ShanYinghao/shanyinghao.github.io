@@ -97,10 +97,6 @@ Fuzzy logic control, Artificial neural network, Particle swarm optimization, Dis
 
 ➤ **Y. Shan**, J. Hu and H. Liu, "[**Economic Dispatch of Model Predictive Controlled Distributed Power Generation**](https://ieeexplore.ieee.org/document/9680878)," 2021 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (**PRECEDE 2021**), Jinan, China, 2021, pp. 836-839.
 
-➤ **Y. Shan**, J. Hu and K. W. Chan, "[**Power sharing and V/f restoration of standalone AC microgrids using model predictive control**](https://ieeexplore.ieee.org/document/9038069)," The 11th IET International Conference on Advances in Power System Control, Operation and Management (**APSCOM 2018**), Hong Kong, China, 2018, pp. 1-5.
-
-➤ **Y. Shan**, J. Hu, K. Wai Cheng and M. Liu, "[**A Universal Model Predictive Control for Practical AC Microgrids with PVs and Battery Energy Storage Systems**](https://ieeexplore.ieee.org/document/8557588)," 2018 IEEE Energy Conversion Congress and Exposition (**ECCE 2018**), Portland, OR, 2018, pp. 6257-6262.
-
 ...
 
 ### **『------Awards------』**
@@ -125,27 +121,9 @@ You can also visit **other pages**:
 
 ➤ [**Web of Science (Publons, peer review records)**](https://www.webofscience.com/wos/author/record/632263)
 
-### **『------Communication and cooperation------』**
-
-He is looking for **outstanding Research / Exchange Students (UG, GR, MSc, MPhil)**, various scholarships and allowances can be offered. 
-
-**Collaboration and consultancies** are also welcome.
-
-Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.edu.cn/dhuzizhu) or contact him **via Email** for more details.
-
 ### **『------News------』**
 
-➤ {Paper}2021-11-19: The review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been [**highly cited**](https://www.webofscience.com/wos/woscc/full-record/WOS:000597235700002?SID=7AKF6rRDwVTwF22RakJ)! 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-     <img src="/HighCite20221111.png" width="100%"> 
-    </td>
-    <td width="50%" align="center">
-     <img src="/review_esi.png" width="70%"> 
-    </td>
-  </tr>
-</table>
+➤ {Paper}2021-11-19: The review paper entitled "**Model predictive control of microgrids – An overview**" published in the journal "**Renewable and Sustainable Energy Reviews**" has been **highly cited**.
 
 ➤ {Paper}2021-10-28: The paper (1st author) entitled "**A Holistic Power Management Strategy of Microgrids Based on Model Predictive Control and Particle Swarm Optimization**" is online now! Published in the journal "**IEEE Transactions on Industrial Informatics**", Q1 top journal. Click [**here**](https://ieeexplore.ieee.org/document/9591449)!
 
@@ -175,10 +153,5 @@ Please visit [**DHU Student Financial Aid Management Center**](http://web.dhu.ed
     </td>
   </tr>
 </table>
-
-![China_Shanghai_DHU](/China_Shanghai_DHU.png)
-*Know more about **Shanghai**: 
-please visit [**Official Encyclopedia**](http://zhuanti.shanghai.gov.cn/newencyclopedia/en/Default3.aspx), [**Travel Guides**](https://hk.trip.com/travel-guide/shanghai-2/)*
-
 
 <a href="https://info.flagcounter.com/AAQ9"><img src="https://s11.flagcounter.com/count/AAQ9/bg_FFFFFF/txt_000000/border_F2F2F2/columns_4/maxflags_4/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
